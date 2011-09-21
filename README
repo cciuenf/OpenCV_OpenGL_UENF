@@ -1,0 +1,14 @@
+My Open Source Computer Vision Library (OpenCV) programs ,
+and my OpenGL programs ... or my experiments with both of them at the same
+time.
+
+First experiment :
+    Rotating a WireSphere in OpenGL with hand tracking (.xml).
+    Testing perfomance.
+        http://www.youtube.com/watch?v=qyxxPZR-WBI
+
+Second experiment :
+    Paint a pixel in x,y position with hand tracking (.xml).
+    Testing false positives frequency.
+        http://www.youtube.com/watch?v=qSSmeNh-FLY
+
