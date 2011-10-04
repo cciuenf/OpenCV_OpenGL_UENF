@@ -14,6 +14,11 @@ Second experiment :
 
 Third experiment :
     Experience and test Color tracking.
-    Simple in theory , but a lot more complicated in real-life ...
+    Simple in theory , but a lot more complicated to use in real-life because of light conditions.
         http://www.youtube.com/watch?v=qV7CHkbQW3Q
+
+Third experiment :
+    First attempt to experience PyGame lib using OpenCV's
+    detection results to control an object's animation.
+    http://www.youtube.com/watch?v=1wBP9_Yt8hg
 
